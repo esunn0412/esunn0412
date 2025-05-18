@@ -1,6 +1,15 @@
 ## Hi there 👋
 
-![Taeeun's github stats](https://github-readme-stats.vercel.app/api?username=esunn0412&show_icons=true&hide_border=true)
+**I'm Taeeun** – I'm a curious developer, researcher, and Emory student. I fight bugs with my muay thai skills.:punch:
+
+Check out my [portfolio](https://taeeunkim.vercel.app/);
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    My Current Tech Stack
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,nodejs,nextjs,react,py,pytorch,postgres,django,docker,figma" />
+  </a>
+</p>
 
 
 <!--
