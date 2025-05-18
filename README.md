@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**I'm Taeeun** – I'm a curious developer, researcher, and Emory student. I fight bugs with my muay thai skills🥊
+**I'm Taeeun** – I'm a curious developer, researcher, and Emory student. I fight bugs with my muay thai skills 🥊
 
 Check out my [portfolio](https://taeeunkim.vercel.app/)!
 <br/>
