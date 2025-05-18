@@ -3,10 +3,12 @@
 **I'm Taeeun** – I'm a curious developer, researcher, and Emory student. I fight bugs with my muay thai skills.:punch:
 
 Check out my [portfolio](https://taeeunkim.vercel.app/)!
+<br/>
 
 <p align="center">
+  My Current Tech Stack
+  <br/>
   <a href="https://skillicons.dev">
-    My Current Tech Stack<br/>
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,nodejs,nextjs,react,py,pytorch,postgres,django,docker,figma" />
   </a>
 </p>
