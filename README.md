@@ -6,7 +6,8 @@ Check out my [portfolio](https://taeeunkim.vercel.app/)!
 <br/>
 
 <p align="center">
-  My Current Tech Stack
+  My Current Tech Stack:
+  <br/>
   <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,nodejs,nextjs,react,py,pytorch,postgres,django,docker,figma" />
