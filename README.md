@@ -10,7 +10,7 @@ Check out my [portfolio](https://taeeunkim.vercel.app/)!
   <br/>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,nodejs,nextjs,react,py,pytorch,postgres,django,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=go,js,ts,html,css,tailwind,nodejs,nextjs,react,py,pytorch,postgres,django,docker,figma" />
   </a>
 </p>
 
