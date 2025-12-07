@@ -15,6 +15,12 @@ Check out my [portfolio](https://taeeunkim.vercel.app/)!
 </p>
 
 
+### 🚀 Open Source Contributions
+- Kubernetes **SIG-Docs** contributor  
+  - PR: [#53300](https://github.com/kubernetes/website/pull/53300) – polishing Kubernetes contribution docs ✨
+
+
+
 <!--
 **esunn0412/esunn0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
