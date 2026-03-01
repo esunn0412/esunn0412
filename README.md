@@ -18,8 +18,8 @@ Check out my [portfolio](https://taeeunkim.vercel.app/)!
 ### 🚀 Open Source Contributions
 - Kubernetes **SIG-Docs** contributor  
   - PR: [#53300](https://github.com/kubernetes/website/pull/53300) – polishing Kubernetes contribution docs ✨
-  - PR: [#53962](https://github.com/kubernetes/website/pull/53962) - Korean documentation for Gateway API! 
-
+  - PR: [#53962](https://github.com/kubernetes/website/pull/53962) - Korean documentation for Gateway API!
+  - Reviewed: [#54500](https://github.com/kubernetes/website/pull/54500) - first review
 
 
 <!--
